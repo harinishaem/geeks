@@ -1,0 +1,18 @@
+body{
+    padding: 0;
+    background: url(image1.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+.box{
+    width: 320px;
+    height: 340px;
+    background: whitesmoke;
+    color: black;
+    top: 53%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    border-radius: 20px 20px 20px 20px;
+}
